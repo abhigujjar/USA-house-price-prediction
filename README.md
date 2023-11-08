@@ -101,7 +101,6 @@ In practice, these methods are implemented with optimization algorithms to find 
 
 
 
-
 ![Price changes over 20 years](https://github.com/abhigujjar/USA-house-price-prediction/blob/main/image.png)
 
 
