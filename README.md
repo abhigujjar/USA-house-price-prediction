@@ -1,14 +1,22 @@
 # The data in this dataset is collected from FRED , Factors Affectiong House prices in USA over 20 years
 collection of all the dataset 
  link--->   https://fred.stlouisfed.org/ 
+
  Population data = POPTHM
+
  GDP data code = GDP
+
  Mortgage = MORTGAGE30US
+
  Unemployement rate = U2RATE
+
  Inflation =FPCPITOTLZGUSA
+
  price = ASPUS
+
 inconme = MEHOINUSA672N
-housing price index 
+
+housing price index = CSUSHPISA
 
 Steps 
 
@@ -91,7 +99,7 @@ RSS is the residual sum of squares (the standard linear regression cost).
 In practice, these methods are implemented with optimization algorithms to find the optimal coefficients that minimize the cost function, considering the regularization terms. The choice between these methods depends on the specific problem and the balance needed between feature selection and multicollinearity control.
 
 
-![Alt text](image.png)
+![Alt text](https://github.com/abhigujjar/USA-house-price-prediction/blob/main/image.png)
 
 As it can be seen in this graph, the prices have changed over the year non linear way.
 2000's it was around $ 200000
